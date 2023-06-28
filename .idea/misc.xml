@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable-v24/btn_round_gray.xml" value="0.2705" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable-v24/dialog_round.xml" value="0.2705" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.262" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable/btn_round.xml" value="0.262" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable/delete.xml" value="0.1945" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable/dialog_add_confirm.xml" value="0.2705" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2605" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable/ic_launcher_background.xml" value="0.262" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/drawable/indicator.xml" value="0.2705" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout-v26/quick_noti_f1.xml" value="0.32546296296296295" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/dialog_add_confirm.xml" value="0.5" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/dialog_add_quick.xml" value="0.25" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/dialog_ads.xml" value="0.33" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/dialog_setting_date.xml" value="0.33" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/grid_item_f1.xml" value="0.33" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/list_noti.xml" value="0.25" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/noti_list_f3.xml" value="0.33" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/noti_main_f2.xml" value="0.33" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/layout/quick_noti_f1.xml" value="0.25" />
+        <entry key="..\:/@ANDROID_project/Reminder/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2705" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
